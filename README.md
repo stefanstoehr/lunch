@@ -1,2 +1,2 @@
 # lunch
-:white_check_mark: calling menu from canteen 
+:fork_and_knife: calling menu from canteen 
